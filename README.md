@@ -1,12 +1,12 @@
-webservice
+Webservice
 ==========
 
-Integrantes:
-============
-Jazmin Martinez
-Adrian Gutierrez
-Paula Lineros
+Integrantes
+===========
+<p>Jazmin Martinez</p>
+<p>Adrian Gutierrez</p>
+<p>Paula Lineros</p>
 
-Tarea 08:
-=========
+Tarea 08
+========
 Diseñar Loggin contra webservice de dirdoc
